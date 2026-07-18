@@ -1,0 +1,31 @@
+# Core
+numpy>=2.0.0
+pandas>=2.2.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+tensorflow>=2.18.0
+
+# Visualization
+matplotlib>=3.9.0
+plotly>=5.24.0
+
+# Dashboard
+streamlit>=1.40.0
+
+# Data Processing
+scipy>=1.14.0
+
+# Optional LiDAR Processing
+open3d>=0.18.0
+
+# Computer Vision (Optional)
+opencv-python>=4.10.0
+
+# Flight Simulation Interface
+pyserial>=3.5
+requests>=2.32.0
+
+# Utilities
+tqdm>=4.66.0
+joblib>=1.4.0
